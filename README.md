@@ -1,0 +1,1 @@
+# .NET 8 template for Azure Cosmos DB training
